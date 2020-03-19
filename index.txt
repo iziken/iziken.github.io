@@ -7,7 +7,7 @@
     <title>Hello</title>
 </head>
 <body>
-
+<link rel="stylesheet" href="iziken.github.io/jsx">
 <p>React<img src="iziken.github.io/jsx" alt=""></p>
     
 </body>
