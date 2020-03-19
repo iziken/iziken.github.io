@@ -7,8 +7,6 @@
     <title>Hello</title>
 </head>
 <body>
-<a href="iziken.github.io/jsx">React</a>
-
-    
+Hello!    
 </body>
 </html>
